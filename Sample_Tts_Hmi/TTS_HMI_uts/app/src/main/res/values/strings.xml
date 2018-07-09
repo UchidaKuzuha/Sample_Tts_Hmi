@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TTS_HMI_uts</string>
+    <string name="hint">"言語設定されたものを入力"</string>
+    <string name="button">Text To Speech</string>
+</resources>
